@@ -1,4 +1,4 @@
-# tsv
+#tsv
 ##A repository for a blog on Through Silicon Via (TSV)
 ##Introduction
 As the industry proceeds to move from 2-D to 2.5-D and finally 3-D integration of ICs, a major challenge in the integration of these ICs is the packaging methodology used. Traditionally, in order to integrate two different ICs a wire bond was used in a 2-D stacking setup. These were long wires, with comparable latency to a PCB. It also meant a constraint on the number of wires which could be connected from a particular IC to another. A major drawback of using ‘traditional’ wire bonding is the limit of bandwidth that it can support. By 3-D stacking various ICs, and using Through Silicon Vias (TSVs), the length of connections is reduced considerably, while increasing the number of connections it can support.
