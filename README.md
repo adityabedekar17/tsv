@@ -1,6 +1,6 @@
-#tsv
-##A repository for a blog on Through Silicon Via (TSV)
-##Introduction
+# TSV
+## A repository for a blog on Through Silicon Via (TSV)
+## Introduction
 As the industry proceeds to move from 2-D to 2.5-D and finally 3-D integration of ICs, a major challenge in the integration of these ICs is the packaging methodology used. Traditionally, in order to integrate two different ICs a wire bond was used in a 2-D stacking setup. These were long wires, with comparable latency to a PCB. It also meant a constraint on the number of wires which could be connected from a particular IC to another. A major drawback of using ‘traditional’ wire bonding is the limit of bandwidth that it can support. By 3-D stacking various ICs, and using Through Silicon Vias (TSVs), the length of connections is reduced considerably, while increasing the number of connections it can support.
 
 A major advantage of using TSV is the reduction of the overall package size and power consumption, resembling the advantages of newer process nodes. This is particularly helpful for example in cases like RF and other analog ICs which cannot be scaled down beyond a certain size, due to the inherent way analog ICs function. The advantage of 3-D stacking is that not all ICs need to be scaled down to the latest node. TSV plays a crucial role in enabling this, while also saving costs for companies as some of the ICs could be of older nodes. This is referred to as a System in Package.
@@ -24,17 +24,17 @@ The manufacturing process could be categorized into three major categories: TSV-
 
 
 
-##TSV : Effects of stress and heat
-##Stress
+## TSV : Effects of stress and heat
+## Stress
 Some of the major issues with TSVs are thermal and TSV-induced stress. The effects of stress could accumulate in the TSV and get transferred to the transistors it is connected to. A potential solution to this could be using keep out zones which would enable TSVs to be separated from the transistors. However, as the die sizes and the nodes decrease, the Vias’ diameters would reduce as well. With this, the keep out zone would decrease as well, causing considerable challenges in terms of stress. A significant source of thermal stress would be the thermal expansion coefficient mismatch for the different materials used within TSVs, which could cause cracks at the interface with silicon.
 
 
-##Heat
+## Heat
 With decreasing sizes of ICs owing to the newer process nodes and Moore's law, more transistors are packed into similar or smaller areas than ever before. In 3D ICs, the heat generation increases considerably, which puts limitations on TSVs to efficiently dissipate heat away from the chip. Localized hotspots may get created in areas where temperatures increase more as compared to other parts of the chip. This temperature distribution would cause even more stress on the interconnect which would have a significant impact on the performance and reliability of the chip.
 
 
 
-##References
+## References
 
 2.5 D & 3D Chips: Interposers and Through Silicon Vias
 Stacking Dies For Performance and Profit
