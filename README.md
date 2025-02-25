@@ -11,6 +11,7 @@ The image below shows how TSVs are used to connect DRAM dice with a high bandwid
 ![High_Bandwidth_Memory_schematic svg](https://github.com/user-attachments/assets/b199b726-f0e7-4a85-b5f1-3e2c379c16a8)
 
 ![Through-Silicon_Via_Flavours svg](https://github.com/user-attachments/assets/2610bc63-567d-4eb7-b355-cf1def7280af)
+[https://www.semanticscholar.org/paper/Comprehensive-Review-of-Different-Methods-for-Via-Baru-Shahidin/e4d9a0c521756374d8c191b043d414005c626496](url)
 
 The origins of TSV were in the 1980s, which were patented for use by Fujitsu, which described using TSVs in 3D chips. They were used in the MEMS (Microelectromechanical Systems) before eventually being used in Integrated Circuits.
 Manufacturing Process of TSV
