@@ -36,7 +36,7 @@ Provides support for Floorplanning and Placement and Routing. Synopsys IC Compil
 Enabling 3D stacking. Source : https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm
 - Intel:  Foveros by Intel, helps in enabling shorter interconnects by using TSVs. The first generation started with a 10nm process. Source: https://en.wikichip.org/wiki/intel/foveros
 - Samsung: Samsung specialises in Memory Chips, and their solution, X-Cube, is the first 3-D SRAM logic for 7nm and beyond. The main advantage of this IP is enabling reliable TSV interconnects at EUV process nodes. Source: https://semiconductor.samsung.com/news-events/news/samsung-announces-availability-of-its-silicon-proven-3d-ic-technology-for-high-performance-applications/#:~:text=Leveraging%20Samsung's%20through%2Dsilicon%20via,well%20as%20mobile%20and%20wearable
-- GlobalFoundries:Source : https://gf.com/gf-press-release/globalfoundries-demonstrates-3d-tsv-capabilities-20nm-technology/
+- GlobalFoundries: Source : https://gf.com/gf-press-release/globalfoundries-demonstrates-3d-tsv-capabilities-20nm-technology/
 
  ## TSV : effects of stress and heat
  - Stress
